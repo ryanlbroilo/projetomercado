@@ -1,1 +1,1 @@
-Projeto de um sistema em HTML para o curso de ADS da PUC-RS
+Projeto de site em HTML para o curso de ADS da PUC-RS
